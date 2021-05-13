@@ -8,3 +8,4 @@
 	url = https://github.com/jomulder/bfpack
 	shallow = true
 	registered = true
+	oncran = true
